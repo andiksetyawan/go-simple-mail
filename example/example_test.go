@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	mail "github.com/xhit/go-simple-mail/v2"
+	mail "github.com/andiksetyawan/go-simple-mail/v2"
 )
 
 // Some variables to connect and the body.
