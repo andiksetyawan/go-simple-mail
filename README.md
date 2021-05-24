@@ -82,7 +82,7 @@ https://pkg.go.dev/github.com/xhit/go-simple-mail/v2?tab=doc
 This package uses go modules.
 
 ```console
-$ go get github.com/xhit/go-simple-mail/v2
+$ go get github.com/andiksetyawan/go-simple-mail/v2
 ```
 
 # Usage
